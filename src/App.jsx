@@ -20,7 +20,7 @@ export default function Portfolio() {
         </ul>
       </div>
 
-      $1
+      
 
       {/* LeetCode Section */}
       <div className="bg-white bg-opacity-10 backdrop-blur-lg rounded-3xl px-6 py-6 mb-8 shadow-xl w-full max-w-xl text-center border border-yellow-300/20">
